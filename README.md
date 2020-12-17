@@ -1,6 +1,4 @@
-# kickstarter-analysis
-
-Kickstarter Campaign Analysis	
+# Kickstarter Campaign Analysis	
 
 The first conclusion to draw from this dataset is that more successful Kickstarter campaigns are started in the spring than any other portion of the year. Specifically, 58% of campaigns started in April, May, and June were successful, easily outpacing the next closest quarter, which came in at 53% for January, February, and March. This is also evident in the graph of campaign success by start date where there is a clear spike in successful cases in May and a noticeable drop off towards the winter months.
 
@@ -15,7 +13,7 @@ A third limitation is the staff pick and spotlight columns. A quick analysis sho
 With the data we do have, the goal amount for a campaign varies greatly across categories so comparing the raw numbers of successes and failures is less beneficial than comparing the success rate percentages within a category. Tables comparing goal amount and start date with success rate within a category would provide more useful information for those looking to start a Kickstarter campaign than data including all categories.
 
 
-Additional Analysis
+# Additional Analysis
 
 The mean number of backers summarizes the data more meaningfully than the median. We can see that successful campaigns averaged over 194 backers compared to only 18 for unsuccessful campaigns. These numbers will be slightly skewed by unsuccessful campaigns that never got rolling and ended with 0 backers, as well as successful campaigns that had a lot of backers but smaller average donation size. With either measure, there is too much unknown information about the financial side of the campaign to look at backer data alone. Neither provides much insight into the campaign itself.
 
